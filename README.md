@@ -1,2 +1,2 @@
-# Spring_educatiob
+# Spring_education
 Изучаю Spring
