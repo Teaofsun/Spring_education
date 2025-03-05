@@ -1,2 +1,2 @@
-# djavist
+# Spring_educatiob
 Изучаю Spring
